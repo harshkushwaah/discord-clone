@@ -1,4 +1,4 @@
-# DClone Essential - Discord clone with the essential features.
+# Discord clone.
 
 > Built with React TS, Redux, and Node.js.
 
