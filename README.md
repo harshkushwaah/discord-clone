@@ -4,7 +4,7 @@
 
 <a href="https://ibb.co/tqdybrW"><img src="https://i.ibb.co/T4CzH3F/image.png" alt="image" border="0"></a>
 
-## Features
+## Features to be added in backend
 
 - **Server Channels**
   - Create channels
@@ -26,4 +26,4 @@
   - Delete your user and prevent it from being used to login
 - **and more** (of course)
 
-> This is only the essential version and just works. The full version is planned to be much more exciting...
+> This is only the frontend version and just looks like discord. The full version is planned to be much more exciting...
